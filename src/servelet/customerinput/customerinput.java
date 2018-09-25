@@ -79,6 +79,7 @@ public class customerinput extends GenericServlet {
 	pw.print("<br>Customer Name="+cname);
 	pw.print("<br>Customer password="+cpass);
 	pw.print("<br>Customer address="+caddress);
+	pw.print("<br>Customer contact="+ccontact);
 	pw.print("<br>Customer contact="+ccontact);*/
 		
 	}
